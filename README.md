@@ -6,6 +6,8 @@ Hi, this is a website I created out of boredom. This site is all about a random 
 
 I called this website  "2Drive" in the sense of "To drive" and this is a responsive website that adapts to different screen sizes. On desktops, you'll find a classic header menu, while on mobile devices, it features a convenient hamburger menu for easy navigation.
 
+This is the site hosted on "Netlify": https://2driveit.netlify.app
+
 ### - Preview Videos 🔎
 
 Check out these preview videos:
